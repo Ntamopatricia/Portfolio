@@ -35,10 +35,10 @@ const About = () => {
               </article>
             </div>
             <p>
-              I am a current trained Bachellor engineer at the Faculty of
+              I am a student currently studying software engineering at the Faculty of
               Engineering and Technology(FET) of the University of Buea.I hold a
               French-speaking baccalaureate c sexion at bilingual grammar school 
-              Buea and i am currently styding in English in the university of Buea.
+              Buea and decided to continue my studies in English at the university of Buea.
                I can therefore express myself in both French and
               English (average).
             </p>
