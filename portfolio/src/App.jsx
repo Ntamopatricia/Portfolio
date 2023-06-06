@@ -1,5 +1,5 @@
 //import React from 'react'
-import  './index.css'
+import './index.css'
 import Header from './components/header/Header'
 import Navbar from './components/navbar/Navbar'
 import About from './components/about/About'
@@ -10,18 +10,18 @@ import Testimonial from './components/testimonial/Testimonial'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
-function App(){
-  return(
-    <div> 
-    <Header />
-    <Navbar />
-    <About />
-    <Experience />
-    <Services />
-    <Portfolio />
-    <Testimonial />
-    <Contact />
-    <Footer /></div>
+function App() {
+  return (
+    <div>
+      <Header />
+      <Navbar />
+      <About />
+      <Experience />
+      <Services />
+      <Portfolio />
+      <Testimonial />
+      <Contact />
+      <Footer /></div>
   );
 }
 
