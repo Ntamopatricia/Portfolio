@@ -10,12 +10,12 @@ list-style: none;
 text-decoration: none; 
 } 
 :root{ /*as root variable we can used it everywhere */
---color-bg:#1f1f38; /* used two(-) to declare css variable */
---color-bg-variant:#2c2c6c; 
---color-primary:#4db5ff; 
---color-primary-variant:rgba(77, 181, 255, 0.4); 
+--color-bg:#5c1745; /* used two(-) to declare css variable */
+--color-bg-variant:#3d215c; 
+--color-primary:#ffc74d; 
+--color-primary-variant:rgba(60, 73, 83, 0.4); 
 --color-white: #fff; 
---color-light:rgba(255,255,255, 0.6); 
+--color-light:rgba(216, 79, 79, 0.6); 
 --container-width-lg:75%; /*size of the container we are going to use on different*/ 
 --container-width-md:86%;/*screen size*/ 
 --container-width-sm:90%; 
