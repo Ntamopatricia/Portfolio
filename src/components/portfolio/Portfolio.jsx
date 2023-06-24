@@ -12,7 +12,7 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Data Analysis Research Sample',
+        title: 'Data Analysis Research Samples',
         github: 'https://github.com',
         demo: 'https://dribbble.com/Alien_pixels'
     },
